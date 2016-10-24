@@ -23,5 +23,5 @@ No.
 For the user? No. However, down the road, it might cost us money to host websites and storing images but that hasn't been flushed out.
 ####  - Can I help?
 Of course, your best bet would be to brush up on [Getting Started Creating Chrome Extensions]( https://developer.chrome.com/extensions/getstarted). As well, as the [Basics of Github]( https://guides.github.com/activities/hello-world/). Once you've completed that you should be able to look around the project and help out!
-####  - Is *oblique* the official name?
+####  - Is *obscure* the official name?
 Most likely not. At this current moment, nothing else comes to mind. Suggest something!
